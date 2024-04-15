@@ -1,6 +1,6 @@
 <div align="center">
  <h1>Hello there, I'm Semyon 👋</h1>
- <h3>🐘 PHP developer from Moscow</h3>
+ <h3>PHP developer from Moscow</h3>
  <!--<img src="https://github.com/MrShimson/MrShimson/blob/main/hellothere.gif" alt="hellothere.gif">-->
  <a href="https://t.me/mr_shimson" alt="telegram link">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram badge">
@@ -11,7 +11,7 @@
 </div>
 
 ## About me
-I've made a long way, trying to find my calling, and finally decided, that I want to be a **PHP-developer**.
+I've made a long way, trying to find my calling, and finally decided, that I want to be a **PHP-developer** 🐘.
 
 I'm currently learning PHP's framework  **Larvel**, not forgetting to improve my current qualification by:
 * reading different articles and professional literature, like:
