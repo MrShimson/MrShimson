@@ -11,7 +11,10 @@
 </div>
 
 ## About me
-I've made a long way, trying to find my calling, and finally decided, that I want to be a **PHP-developer** 🐘.
+I've made a long way, trying to find my calling, and finally decided, that I want to be a **PHP-developer** 🐘,
+so I'm looking for a full-time job (or an internship) at the moment.
+
+If you are intrested, you can watch my **[CV](https://cv.hexlet.io/ru/resumes/3795)**.
 
 I'm currently learning PHP's framework  **Larvel**, not forgetting to improve my current qualification by:
 * reading different articles and professional literature, like:
