@@ -11,18 +11,18 @@
 </div>
 
 ## About me
-I've made a long way, trying to find my calling, and finally decided, that I want to be a **PHP-developer** 🐘,
-so I'm looking for a full-time job (or an internship) at the moment.
+I've came a long way, trying to find my calling, and finally decided to be a **PHP-developer** 🐘,
+so, at the moment, I'm looking for a full-time job (or an internship).
 
-If you are intrested, you can watch my **[CV](https://cv.hexlet.io/ru/resumes/3795)**.
+I'll be grateful, if you check this out **[CV](https://cv.hexlet.io/ru/resumes/3795)**.
 
-I'm currently learning PHP's framework  **Larvel**, not forgetting to improve my current qualification by:
+I have been learning PHP's framework  **Larvel**, not forgetting to improve my current qualification by:
 * reading different articles and professional literature, like:
   * "PHP Objects, Patterns, and Practice" by Matt Zandstra (in process)
   * "Clean Code" by Robert Martin (in process)
   * "Grokking Algorithms" by Aditya Bhargava (finished)
 * watching professsional lectures and educational videos (recently started watching Harvard's CS50 course)
-* always trying to consolidate achived knowledge by solving different tasks (LeetCode as example) by coding
+* always trying to consolidate achived knowledge by solving different tasks (LeetCode as example) by coding.
 
 ## My stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="75" height="100" />&nbsp;
