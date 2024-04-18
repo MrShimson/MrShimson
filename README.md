@@ -14,7 +14,7 @@
 I've came a long way, trying to find my calling, and finally decided to be a **PHP-developer** 🐘,
 so, at the moment, I'm looking for a full-time job (or an internship).
 
-I'll be grateful, if you check this out **[CV](https://cv.hexlet.io/ru/resumes/3795)**.
+I'll be grateful, if you check out my **[CV](https://cv.hexlet.io/ru/resumes/3795)**.
 
 I have been learning PHP's framework  **Larvel**, not forgetting to improve my current qualification by:
 * reading different articles and professional literature, like:
