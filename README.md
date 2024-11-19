@@ -12,28 +12,27 @@
 
 ## About me
 I've came a long way, trying to find my calling, and finally decided to be a **PHP-developer** 🐘,
-so, at the moment, I'm looking for a full-time job (or an internship).
+so, at the moment, I'm looking for a full-time job.
 
-I'll be grateful, if you check out my **[CV](https://cv.hexlet.io/ru/resumes/3795)**.
+I'll be grateful, if you check out my **[CV](https://hh.ru/applicant/resumes/view?resume=0b40d02fff0e063a9e0039ed1f694267746e61)**.
 
-I have been learning PHP's framework  **Larvel**, not forgetting to improve my current qualification by:
-* reading different articles and professional literature, like:
-  * "PHP Objects, Patterns, and Practice" by Matt Zandstra (in process)
-  * "Clean Code" by Robert Martin (in process)
-  * "Grokking Algorithms" by Aditya Bhargava (finished)
-* watching professsional lectures and educational videos (recently started watching Harvard's CS50 course)
-* always trying to consolidate achived knowledge by solving different tasks (LeetCode as example) by coding.
+I've recently started a new project that will allow me to go from idea generation to production launch on my own, as well as gain new and deepen existing knowledge of modern web application architecture
+We'll see where it takes me... 😅
 
 ## My stack
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="75" height="100" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="85" height="100" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" width="65" height="100" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" width="65" height="100" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="100" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" width="85" height="100" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" width="65" height="115" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="50" height="100" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="65" height="100" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="65" height="100" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="50" height="100" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="50" height="100" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60" height="100" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="100" />&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="50" height="100" />&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50" height="100" />&nbsp;
 
 ## My stats
 
