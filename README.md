@@ -14,7 +14,7 @@
 I've came a long way, trying to find my calling, and finally decided to be a **PHP-developer** 🐘,
 so, at the moment, I'm looking for a full-time job.
 
-I'll be grateful, if you check out my **[CV](https://hh.ru/applicant/resumes/view?resume=0b40d02fff0e063a9e0039ed1f694267746e61)**.
+I'll be grateful, if you check out my **[CV](https://cv.hexlet.io/ru/resumes/3795)**.
 
 I've recently started a new project that will allow me to go from idea generation to production launch on my own, as well as gain new and deepen existing knowledge of modern web application architecture
 We'll see where it takes me... 😅
